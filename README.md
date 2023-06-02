@@ -1,1 +1,1 @@
-My first readme "How to be up to date in git" update
+My first readme "Collaboration: be up to date"
